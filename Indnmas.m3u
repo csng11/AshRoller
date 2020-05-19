@@ -53,53 +53,12 @@ https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
 
 ########################################################### TESTING ################################################### 
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/tv1.jpg", group-title="MY",TV1
-https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
-
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/tv2.jpg", group-title="MY",TV2
-https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
-
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/tv3_hd.jpg", group-title="MY",TV3
-https://raw.githubusercontent.com/androidrepublica/playlist/master/TV3.m3u8
-
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_aec.jpg", group-title="MY",AEC
-http://185.180.221.194:8278/Aec/playlist.m3u8?tid=MD9D7286847372868473&ct=18393&tsum=528b4df2b09ac49dde7efa01f1521fc0
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MY",iQIYi
-http://185.180.221.194:8278/Qiyi/playlist.m3u8?tid=MB6B9982727599827275&ct=18393&tsum=dac11949045b23a5dddf7f908d866fcc
-
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_ondemand.jpg", group-title="MY",AOD
-hthttp://198.16.106.58:8278/852e2b6267/playlist.m3u8?tid=ME9E3829778138297781&ct=18393&tsum=267919d91a464025ca3ec69186e0b97f
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MY",Quan Jia 全佳
-http://185.180.221.194:8278/709a7e15e5/playlist.m3u8?tid=MB2B5535727355357273&ct=18393&tsum=befb9caa2c30f07d1ae184dcc3f09a01
-
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/tvb.jpg", group-title="MY",Xuang Xing 双星
-http://185.180.221.194:8278/367b06ceb0/playlist.m3u8?tid=MA6A9167860491678604&ct=18393&tsum=a91c02b45da772304fb1d530514e52a7
-
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/astro_hhd.jpg", group-title="MY",HUA HEE TAI 欢喜
-http://185.180.221.194:8278/6192529292/playlist.m3u8?tid=ME1E6676056466760564&ct=18393&tsum=c7c93e30271e8d42b8f02c7a8ca24319
-
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/celestial_hd.jpg", group-title="MY",Xiao Tai Yang 小太阳
-http://185.180.221.194:8278/3c83e3e991/playlist.m3u8?tid=MBBB6932799069327990&ct=18393&tsum=7879ab5e19dae1fa346615d553b22e00
-
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/ccm.jpg", group-title="MY",CELESTIAL MOVIES 天映频道
-https://raw.githubusercontent.com/zulnausa/test/master/CCM.m3u8
-
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/ccm.jpg", group-title="MY",CELESTIAL MOVIES 天映频道 2
-http://198.16.106.58:8278/Celestial1511/playlist.m3u8?tid=MA3A1587109915871099&ct=18392&tsum=3039500a3cdcdb25e75684401aa93fab
-
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/ccm.jpg", group-title="MY",CELESTIAL CLASSIC 天映经典
-http://198.16.106.58:8278/Celestial2/playlist.m3u8?tid=MDCD3547234435472344&ct=18392&tsum=df191ce8dd50aed7d02bc018c8953b5d
-
-#EXTINF:-1, tvg-logo="https://images.mypadtv.com/xingkong.jpg", group-title="MY", STAR TV
-http://218.202.220.2:5000/nn_live.ts?id=STARTV
 
 #EXTINF:-1, tvg-logo="", group-title="MY",ANTV
-https://raw.githubusercontent.com/zulnausa/test/master/Antv.m3u8
+https://vcdnjt.useetv.com:443/joss/15/antv/chunklist_w1093587531_b684100_sleng_177560.m3u8
 
 #EXTINF:-1, tvg-logo="", group-title="MY",Kix
-https://raw.githubusercontent.com/zulnausa/test/master/Kix.m3u8
+https://vcdnjt.useetv.com:443/joss/15/kix/chunklist_w1894174703_b684100_sleng_177560.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/5q-xV1o9M645p_mip4p3pg.jpg", group-title="MY",CHING M
 http://edge1.everyon.tv/etv1sb/phd783/chunklist_w2146123380.m3u8
