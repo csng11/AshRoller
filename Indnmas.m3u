@@ -54,11 +54,6 @@ http://ivi.bupt.edu.cn/hls/chchd.m3u8
 
 ########################################################### TESTING ################################################### 
 
-#EXTINF:-1, tvg-logo="", group-title="MY",ANTV
-https://vcdnjt.useetv.com:443/joss/15/antv/chunklist_w1093587531_b684100_sleng_177560.m3u8
-
-#EXTINF:-1, tvg-logo="", group-title="MY",Kix
-https://vcdnjt.useetv.com:443/joss/15/kix/chunklist_w1894174703_b684100_sleng_177560.m3u8
 
 ########################################################### INDONESIA ################################################### 
 
