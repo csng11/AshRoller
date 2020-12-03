@@ -10,10 +10,10 @@ https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|R
 https://stream-01.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXITy4E2qJ7Sw3S7mHkW8Ss)/dm/3/x6qp375/d/live-2.m3u8
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/ntv7.png",NTV7
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHY98_cPAiyZqtfg65xEJxLA)/dm/3/x6qp6ou/s/live-3.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1
+https://stream-01.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHV3B9NxnC6yuqfefZvcX2IQ)/dm/3/x6qp6ou/s/live-2.m3u8
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/8tv.png",8TV
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUqVq6KTa9FdmWnu4D5Grts)/dm/3/x6qud17/s/live-3.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1
+https://stream-02.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHc-c9v4opGL-lq2FgBhsLVk)/dm/3/x6qud17/s/live-2.m3u8
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv9.png",TV9
 https://stream-02.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHeg426TDX0DDE-wlbJL33n4)/dm/3/x6qqja6/s/live-2.m3u8
