@@ -1,4 +1,5 @@
-#EXTINF:-1 tvg-id="TV1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/TV1_Malaisie_Logo.png/280px-TV1_Malaisie_Logo.png" ,TV1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/TV1_Malaisie_Logo.png/280px-TV1_Malaisie_Logo.png" ,TV1
+tvg-id="TV1"
 #EXTINF:-1 tvg-id="TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/TV1_Malaisie_Logo.png/280px-TV1_Malaisie_Logo.png" ,TV2
 #EXTINF:-1 tvg-id="TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/TV1_Malaisie_Logo.png/280px-TV1_Malaisie_Logo.png" ,TV3
 #EXTINF:-1 tvg-id="NTV7" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/TV1_Malaisie_Logo.png/280px-TV1_Malaisie_Logo.png" ,NTV7
