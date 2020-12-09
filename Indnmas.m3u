@@ -1,6 +1,6 @@
 #EXTM3U
   
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2011/02/tv1-NEW.jpg",TV1
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png",TV1
 https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Logo_of_TV2_%28Malaysia%29.svg/220px-Logo_of_TV2_%28Malaysia%29.svg.png",TV2
@@ -18,10 +18,10 @@ https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://www.tvikim.my/images/logo-header-02.png",TVIKIM
 https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/ntv7.png",NTV7
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png",NTV7
 https://stream-01.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHV3B9NxnC6yuqfefZvcX2IQ)/dm/3/x6qp6ou/s/live-2.m3u8
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/8tv.png",8TV
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
 https://stream-02.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHc-c9v4opGL-lq2FgBhsLVk)/dm/3/x6qud17/s/live-2.m3u8
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv9.png",TV9
