@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://www.logolynx.com/images/logolynx/7a/7a68d0bd20a23725cfd5bc8809fa7a4c.jpeg",Version 2
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://www.logolynx.com/images/logolynx/7a/7a68d0bd20a23725cfd5bc8809fa7a4c.jpeg",Version 3
 https://stream-02.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHc2VtRxNuIjhYkMgy4tmuD0)/dm/3/x6qp375/d/live-2.m3u8
   
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png",TV1
@@ -27,7 +27,7 @@ https://stream-01.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHV3B9NxnC6yuqfefZv
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
 https://stream-01.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSwteggiGzURs_ZMz6FRbBs)/dm/3/x6qud17/s/live-2.m3u8|Referer=https://stream-01.ty4.dailymotion.com
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://lh3.googleusercontent.com/-puxuAZIgV6g/TYvFV71kA1I/AAAAAAAAFHY/TtRbuYOWEtI/s1600/TV9.png",TV9
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/archive/5/51/20130220110810!Logo_tv9_baru.png",TV9
 https://stream-01.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYSggErTTpx91arb4iyj03Y)/dm/3/x6qqja6/s/live-2.m3u8|Referer=https://stream-01.ty4.dailymotion.com
 
 #EXTINF:-1 tvg-group="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/501.png",Astro Awani 
@@ -36,7 +36,7 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream05/streamPlaylist.m
 ########################################################### SINGAPORE ################################################### 
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png",Channel 5 
-https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest_video_3_0_10337378.mp4?m=1601821803|Referer=https://tglmp02.akamaized.net
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/channel-8.png",Channel 8 
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
@@ -47,7 +47,8 @@ https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
 
 ########################################################### TESTING ################################################### 
-
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png", Test Indosiar
+https://etslive-2-vidio-com.akamaized.net/exp=1607525955~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=98b5a842d45dd2494948134ea97f9364dc1d44c0ecca6ee5b83c5ddff5415f16/vp9/204/primary/audio/1607326446-185202018000.webm
 
 ########################################################### INDONESIA ################################################### 
 
