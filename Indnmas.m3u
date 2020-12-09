@@ -27,11 +27,11 @@ https://stream-01.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHV3B9NxnC6yuqfefZv
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
 https://stream-01.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSwteggiGzURs_ZMz6FRbBs)/dm/3/x6qud17/s/live-2.m3u8|Referer=https://stream-01.ty4.dailymotion.com
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Logo_of_TV9_%28Malaysia%29.svg",TV9
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://lh3.googleusercontent.com/-puxuAZIgV6g/TYvFV71kA1I/AAAAAAAAFHY/TtRbuYOWEtI/s1600/TV9.png",TV9
 https://stream-01.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYSggErTTpx91arb4iyj03Y)/dm/3/x6qqja6/s/live-2.m3u8|Referer=https://stream-01.ty4.dailymotion.com
 
 #EXTINF:-1 tvg-group="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/501.png",Astro Awani 
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream05/streamPlaylist.m3u8
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream05/streamPlaylist.m3u8|Referer=https://awanitv.akamaized.net
 
 ########################################################### SINGAPORE ################################################### 
 
