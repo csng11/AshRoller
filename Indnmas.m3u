@@ -401,22 +401,22 @@ http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
 
 #EXTINF:-1,MY CINEMA
-http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8|Referer=http://210.210.155.35
 
 #EXTINF:-1,AXN
-http://210.210.155.35/uq2663/h/h09/index.m3u8
+http://210.210.155.35/uq2663/h/h09/index.m3u8|Referer=http://210.210.155.35
 
 #EXTINF:-1,DIVA
-http://210.210.155.35/uq2663/h/h11/index.m3u8
+http://210.210.155.35/uq2663/h/h11/index.m3u8|Referer=http://210.210.155.35
 
 #EXTINF:-1,CINEMA WORD
-http://210.210.155.35/uq2663/h/h04/index2.m3u8
+http://210.210.155.35/uq2663/h/h04/index2.m3u8|Referer=hhttp://210.210.155.35
 
 #EXTINF:-1,HITS
-http://210.210.155.35/uq2663/h/h37/index2.m3u8
+http://210.210.155.35/uq2663/h/h37/index2.m3u8|Referer=http://210.210.155.35
 
 #EXTINF:-1,STAR Movies
-http://m-iptv.net:6204/avin2/wwesn4/13504
+http://m-iptv.net:6204/avin2/wwesn4/13504|Referer=http://m-iptv.net:6204
 
 #EXTINF:-1,WOWOW Movies
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
