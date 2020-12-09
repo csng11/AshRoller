@@ -30,6 +30,23 @@ https://stream-02.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHeg426TDX0DDE-wlbJ
 #EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/awani.png",Astro Awani 
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
 
+
+
+
+########################################################### SINGAPORE ################################################### 
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png",Channel 5 
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/channel-8.png",Channel 8 
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+
+########################################################### China ################################################### 
+
+#EXTINF:-1,tvg-logo="https://www.tvchinese.net/uploads/tv/chchd.jpg",CHC HD Movie
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+
+########################################################### TESTING ################################################### 
 #EXTINF:-1 tvg-id=“TV 1” tvg-name=“TV_1” tvg-logo="TV 1.png" group-title="RTM",TV 1
 http://supercharged.stream.my/live/ngrp:rtm-ch001.stream_all/playlist.m3u8
 
@@ -59,23 +76,6 @@ http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
 
 #EXTINF:-1 tvg-id=“RTM Parliament” tvg-name=“RTM_Parliament” tvg-logo="RTM Parlimen.png" group-title="RTM",RTM Parliament2
 http://supercharged.stream.my/live/ngrp:rtm-ch009.stream_all/playlist.m3u8
-
-
-########################################################### SINGAPORE ################################################### 
-
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png",Channel 5 
-https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
-
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/channel-8.png",Channel 8 
-https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-
-########################################################### China ################################################### 
-
-#EXTINF:-1,tvg-logo="https://www.tvchinese.net/uploads/tv/chchd.jpg",CHC HD Movie
-http://ivi.bupt.edu.cn/hls/chchd.m3u8
-
-########################################################### TESTING ################################################### 
-
 
 ########################################################### INDONESIA ################################################### 
 
