@@ -1,4 +1,6 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://www.logolynx.com/images/logolynx/7a/7a68d0bd20a23725cfd5bc8809fa7a4c.jpeg",Version 1
   
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png",TV1
 https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
@@ -6,8 +8,8 @@ https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|R
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Logo_of_TV2_%28Malaysia%29.svg/220px-Logo_of_TV2_%28Malaysia%29.svg.png",TV2
 https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="http://1.bp.blogspot.com/-VVLr08ESRls/VK0V9kxWpWI/AAAAAAAAhNo/UFOQtd5AWCU/s1600/tv3_logo.png",TV3|Referer=https://stream-02.ty4.dailymotion.com
-https://stream-02.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHc2VtRxNuIjhYkMgy4tmuD0)/dm/3/x6qp375/d/live-2.m3u8
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="http://1.bp.blogspot.com/-VVLr08ESRls/VK0V9kxWpWI/AAAAAAAAhNo/UFOQtd5AWCU/s1600/tv3_logo.png",TV3
+https://stream-02.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHc2VtRxNuIjhYkMgy4tmuD0)/dm/3/x6qp375/d/live-2.m3u8|Referer=https://stream-02.ty4.dailymotion.com
 
 #EXTINF:-1 tvg-group="News" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/16/Berita-NEW-PlayerLogo.jpg/revision/latest/scale-to-width-down/300?cb=20200621162528",Berita RTM
 https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
