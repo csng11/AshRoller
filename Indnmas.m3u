@@ -33,7 +33,7 @@ https://stream-01.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYSggErTTpx91arb4i
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd|Referer=https://tglmp02.akamaized.net
 
 ########################################################### INDONESIA ###################################################
 
