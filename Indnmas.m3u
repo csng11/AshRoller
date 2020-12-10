@@ -17,6 +17,9 @@ https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/RTM_Sports.png/300px-RTM_Sports.png",RTM Sports HD
 https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://www.wowowplus.co.jp/iids/wp-content/uploads/2016/12/9ff79db3ce17fb503b2b4d6f382fe3cd-300x300.png",CNA
+https://stream-02.ty4.dailymotion.com/sec(7zHXJsrpGnW1sC_CkKIalpZQn2cyvVgj3ZywBn5a4RI)/dm/3/x7ptegr/s/live-2.m3u8|Referer=https://stream-02.ty4.dailymotion.com
+
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png",NTV7
 https://stream-02.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXeFU0wmr6Yg7FDILAjsO70)/dm/3/x6qp6ou/s/live-2.m3u8|Referer=https://stream-02.ty4.dailymotion.com
 
