@@ -20,9 +20,6 @@ https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/RTM_Sports.png/300px-RTM_Sports.png",RTM Sports HD
 https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://www.wowowplus.co.jp/iids/wp-content/uploads/2016/12/9ff79db3ce17fb503b2b4d6f382fe3cd-300x300.png",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
-
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png",NTV7 link 1
 https://stream-01.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHeygpoFLxkX7znMw3gHiTK8)/dm/3/x6qp6ou/s/live-2.m3u8|Referer=https://stream-01.ty4.dailymotion.com
 
@@ -35,9 +32,20 @@ https://stream-02.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHc0TJJyIAI-dAmgXYe
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/archive/5/51/20130220110810!Logo_tv9_baru.png",TV9 link 1
 https://stream-01.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHdgZ8ALxyHx1QnqMR7eW4bE)/dm/3/x6qqja6/s/live-2.m3u8|Referer=https://stream-01.ty4.dailymotion.com
 
-
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/archive/5/51/20130220110810!Logo_tv9_baru.png",TV9 link 2
 https://stream-01.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHR92fDJ0PX6B9HzlZx28vkE)/dm/3/x6qqja6/s/live-2.m3u8|Referer=https://stream-01.ty4.dailymotion.com
+
+
+########################################################### Astro ################################################### 
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Awani.jpg",Astro Awani
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream05/streamPlaylist.m3u8
+
+########################################################### SINGAPORE ################################################### 
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://www.wowowplus.co.jp/iids/wp-content/uploads/2016/12/9ff79db3ce17fb503b2b4d6f382fe3cd-300x300.png",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
+
 
 ########################################################### TESTING ################################################### 
 
