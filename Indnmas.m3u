@@ -49,3 +49,12 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m
 
 ########################################################### TESTING ################################################### 
 
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://www.wowowplus.co.jp/iids/wp-content/uploads/2016/12/9ff79db3ce17fb503b2b4d6f382fe3cd-300x300.png", Baby TV
+http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/1031.ts?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://www.wowowplus.co.jp/iids/wp-content/uploads/2016/12/9ff79db3ce17fb503b2b4d6f382fe3cd-300x300.png", Cbeebies
+http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/1032.ts?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://www.wowowplus.co.jp/iids/wp-content/uploads/2016/12/9ff79db3ce17fb503b2b4d6f382fe3cd-300x300.png", CNN
+http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/1036.ts?checkedby:hlscat.com
+
