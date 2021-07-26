@@ -8,29 +8,14 @@ https://rtmlive01.secureswiftcontent.com/rtmchannel/01_1080.m3u8|Referer=https:/
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Logo_of_TV2_%28Malaysia%29.svg/220px-Logo_of_TV2_%28Malaysia%29.svg.png",TV2
 https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8|Referer=https://myklik.rtm.gov.my
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="http://1.bp.blogspot.com/-VVLr08ESRls/VK0V9kxWpWI/AAAAAAAAhNo/UFOQtd5AWCU/s1600/tv3_logo.png",TV3
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcrGQ4vUeSatOl7iYR3Y960)/dm/3/x6qp375/d/live-2.m3u8|Referer=https://stream-05.sg1.dailymotion.com
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg",TV Okey
+https://rtmlive03.secureswiftcontent.com/rtmchannel/03_1080.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-group="News" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/16/Berita-NEW-PlayerLogo.jpg/revision/latest/scale-to-width-down/300?cb=20200621162528",Berita RTM
 https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/RTM_Sports.png/300px-RTM_Sports.png",RTM Sports HD
-https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
-
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png",NTV7 link 1
-https://stream-01.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHeygpoFLxkX7znMw3gHiTK8)/dm/3/x6qp6ou/s/live-2.m3u8|Referer=https://stream-01.ty4.dailymotion.com
-
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png",NTV7 link 2
-https://stream-01.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZ6u2GxafzS1fjoox1VnKAA)/dm/3/x6qp6ou/s/live-2.m3u8|Referer=https://stream-01.ty4.dailymotion.com
-
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
-https://stream-02.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHc0TJJyIAI-dAmgXYe_GFNk)/dm/3/x6qud17/s/live-2.m3u8|Referer=https://stream-02.ty4.dailymotion.com
-
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/archive/5/51/20130220110810!Logo_tv9_baru.png",TV9 link 1
-https://stream-01.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHdgZ8ALxyHx1QnqMR7eW4bE)/dm/3/x6qqja6/s/live-2.m3u8|Referer=https://stream-01.ty4.dailymotion.com
-
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/archive/5/51/20130220110810!Logo_tv9_baru.png",TV9 link 2
-https://stream-01.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHR92fDJ0PX6B9HzlZx28vkE)/dm/3/x6qqja6/s/live-2.m3u8|Referer=https://stream-01.ty4.dailymotion.com
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/RTM_Sports.png/300px-RTM_Sports.png",SUKAN RTM
+https://rtmlive02.secureswiftcontent.com/rtmchannel/02_1080.m3u8|Referer=https://myklik.rtm.gov.my
 
 
 ########################################################### Astro ################################################### 
@@ -43,38 +28,17 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream05/streamPlaylist.m
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://www.wowowplus.co.jp/iids/wp-content/uploads/2016/12/9ff79db3ce17fb503b2b4d6f382fe3cd-300x300.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png", CNN
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/1036.ts?checkedby:hlscat.com
 
 ########################################################### Kids ################################################### 
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://image3.mouthshut.com/images/imagesp/925599048s.jpg", Baby TV
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/1031.ts?checkedby:hlscat.com
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://andrewjamesspooner.com/wp-content/uploads/2014/09/CBeebies-logo.png", Cbeebies
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/1032.ts?checkedby:hlscat.com
-
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/1920px-PBS_Kids_Logo.svg.png", PBS Kids
-https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_131.m3u8
-
-#EXTINF:-1 tvg-group="https://3.bp.blogspot.com/-9_qzutK1Lzw/VBtpkB9dUEI/AAAAAAAAEno/k8rkb990Y8U/s1600/Logo%2BNick_Jr.png", Nick Jr.
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/1029.ts?checkedby:hlscat.com
-
-#EXTINF:-1 tvg-group="https://vignette3.wikia.nocookie.net/fictionalcrossover/images/4/4f/A_nick_toons.png", Nick Toons
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/1030.ts?checkedby:hlscat.com
-
-#EXTINF:-1 tvg-group="https://1000logos.net/wp-content/uploads/2017/03/Font-of-the-Nickelodeon-Logo.jpg", Nickelodeon
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/1028.ts?checkedby:hlscat.com
 
 ########################################################### Movies ################################################### 
 
-#EXTINF:-1 tvg-group="http://img3.wikia.nocookie.net/__cb20111118190047/logopedia/images/0/07/Sky-Movies-ActionAdventure.png", Sky Movies - Action
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/910.ts?checkedby:hlscat.com
+
 
 ########################################################### MTV ################################################### 
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MTV_Classic_2017_logo.svg/1200px-MTV_Classic_2017_logo.svg.png", MTV
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/1056.ts?checkedby:hlscat.com
 
 
 
