@@ -8,6 +8,9 @@ https://rtmlive01.secureswiftcontent.com/rtmchannel/01-720.m3u8|Referer=https://
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Logo_of_TV2_%28Malaysia%29.svg/220px-Logo_of_TV2_%28Malaysia%29.svg.png",TV2
 https://rtmlive05.secureswiftcontent.com/rtmchannel/05-720.m3u8|Referer=https://rtmklik.rtm.gov.my/
 
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png",TV3
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXO2cGH09Z3SEy3bTm5yLoA)/dm/3/x6qp375/d/live-1.m3u8|Referer=https://stream-04.sg1.dailymotion.com/
+
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg",TV Okey
 https://rtmlive02.secureswiftcontent.com/rtmchannel/02-720.m3u8|Referer=https://rtmklik.rtm.gov.my/
 
