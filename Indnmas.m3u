@@ -15,10 +15,10 @@ https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYT396iQjllidgifb9
 https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHVcxHVWnolgXZBQ01dViJ9Y)/dm/3/x6qp6ou/s/live-1.m3u8|Referer=https://www.dailymotion.com/
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv8.png",TV8
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHf2YJHkHBR1_79QjYTQxt0Q)/dm/3/x6qud17/s/live-1.m3u8|Referer=https://stream-04.sg1.dailymotion.com/
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTQ4fZUlEuO2Pdbzl3Ic9bc)/dm/3/x6qud17/s/live-1.m3u8|Referer=https://www.dailymotion.com/
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv9_new.png",TV9
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHT4GrG4m6vP-w3WPmdxs48k)/dm/3/x6qqja6/s/live-1.m3u8|Referer=https://stream-04.sg1.dailymotion.com/
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHacguVFzhHPr6qHYy1OyqsA)/dm/3/x6qqja6/s/live-1.m3u8|Referer=https://www.dailymotion.com/
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg",TV Okey
 https://rtmlive02.secureswiftcontent.com/rtmchannel/02-720.m3u8|Referer=https://rtmklik.rtm.gov.my/
@@ -31,13 +31,16 @@ https://rtmlive06.secureswiftcontent.com/rtmchannel/06-720.m3u8|Referer=https://
 
 ########################################################### Astro ################################################### 
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Awani.jpg",Astro Awani
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream05/streamPlaylist.m3u8|Referer=https://www.astroawani.com
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Awani.jpg",ASTRO AWANI
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream06/streamPlaylist.m3u8|Referer=https://awanitv.akamaized.net/
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",ASTRO ARENA
+https://tvmalaysia.cyou/hls/arena.m3u8|Referer=https://tvmalaysia.cyou/
 
 ########################################################### NEWS ################################################### 
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://www.wowowplus.co.jp/iids/wp-content/uploads/2016/12/9ff79db3ce17fb503b2b4d6f382fe3cd-300x300.png",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8|Referer=https://d2e1asnsl7br7b.cloudfront.net/
 
 
 ########################################################### Kids ################################################### 
@@ -46,16 +49,17 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m
 
 ########################################################### Movies ################################################### 
 
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://pbs.twimg.com/profile_images/1443927056304250887/eQGXDQcL_400x400.jpg",HBO
+https://tvmalaysia.cyou/hls/hbo.m3u8|Referer=https://tvmalaysia.cyou/
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",CINEMAX
+https://tvmalaysia.cyou/hls/cinemax.m3u8|Referer=https://tvmalaysia.cyou/
+
 
 
 ########################################################### Olympics ################################################### 
 
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://pbs.twimg.com/profile_images/758375159220805632/_Ykx56Hs_400x400.jpg",OLYMPCIS CH4
-https://rtm-olympic04.secureswiftcontent.com/rtm/olympic04_720.m3u8|Referer=https://tokyo2020.rtm.gov.my
-
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://pbs.twimg.com/profile_images/758375159220805632/_Ykx56Hs_400x400.jpg",OLYMPCIS CH5
-https://rtm-olympic05.secureswiftcontent.com/rtm/olympic05_720.m3u8|Referer=https://tokyo2020.rtm.gov.my
 
 
 
