@@ -50,7 +50,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m
 ########################################################### Movies ################################################### 
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://pbs.twimg.com/profile_images/1443927056304250887/eQGXDQcL_400x400.jpg",HBO
-https://tvmalaysia.cyou/hls/hbo.m3u8|Referer=https://tvmalaysia.cyou/
+https://tvmalaysia.cyou/hls/hbo.m3u8|Referer=https://tvmalaysia.cyou/hls/
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",CINEMAX
 https://tvmalaysia.cyou/hls/cinemax.m3u8|Referer=https://tvmalaysia.cyou/
