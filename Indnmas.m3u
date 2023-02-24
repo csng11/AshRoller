@@ -29,7 +29,7 @@ https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv9_new.png",TV9
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
 
-#EXTINF:-1 tvg-group="https://pbs.twimg.com/profile_images/1250448863346823170/ulAEBkva_400x400.jpg",Drama Sangat
+#EXTINF:-1 tvg-group="https://static8.tgstat.ru/channels/_0/e8/e8d015d17d29e7d0db09b5136c6e3f0e.jpg",Drama Sangat
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/RTM_Sports.png/300px-RTM_Sports.png",SUKAN RTM
@@ -37,12 +37,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?i
 
 
 ########################################################### Astro ################################################### 
-
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Awani.jpg",ASTRO AWANI
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream06/streamPlaylist.m3u8|Referer=https://awanitv.akamaized.net/
-
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",ASTRO ARENA
-https://tvmalaysia.cyou/hls/arena.m3u8|Referer=https://tvmalaysia.cyou/
 
 ########################################################### NEWS ################################################### 
 
@@ -55,12 +49,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m
 
 
 ########################################################### Movies ################################################### 
-
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://pbs.twimg.com/profile_images/1443927056304250887/eQGXDQcL_400x400.jpg",HBO
-https://tvmalaysia.cyou/hls/hbo.m3u8
-
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",CINEMAX
-https://tvmalaysia.cyou/hls/cinemax.m3u8
 
 
 
