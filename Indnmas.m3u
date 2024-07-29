@@ -3,7 +3,7 @@
 ########################################################### MALAYSIA ################################################### 
  
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png",TV1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my/
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Logo_of_TV2_%28Malaysia%29.svg/220px-Logo_of_TV2_%28Malaysia%29.svg.png",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2|Referer=https://rtmklik.rtm.gov.my/
